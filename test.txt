@@ -1,9 +1,1 @@
-Here i'm going to name the city as none
-
-city: Banglore
-
-here after i'm going to create 2 more branches in that i'm going to give 2 different city names and then i'm going to make pull request and then we can able to see the conflicts which going to occur that time,
-we have to solve the error based on which one is correct and then merge the request.
-
-Note:
-In this file i'm going to change the city name to banglore and then i will make pull request and then i'm going to merge the file to main branch see the changes in the main file. That time i don't get any error.
+city: Chennai
